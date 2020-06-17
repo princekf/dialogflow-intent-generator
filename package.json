@@ -1,0 +1,14 @@
+{
+  "name": "dialogflow-intent-generator",
+  "version": "1.0.0",
+  "description": "Generating intents from json",
+  "main": "index.js",
+  "author": "Prince Francis",
+  "license": "MIT",
+  "dependencies": {
+    "uuid": "8.1.0"
+  },
+  "scripts": {
+    "start": "node index.js"
+}
+}
